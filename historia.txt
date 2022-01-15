@@ -1,3 +1,6 @@
 Este es el archivo de una historia
 
-Esta es la versión 1
+Esta es la versión 2
+
+También agrandé la longitud del archivo
+
